@@ -5,7 +5,6 @@
   <a href="https://discord.gg/4cajZdYpgS">Discord</a> |
   <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
   <a href="https://twitter.com/its_vichy">Twitter</a> |
-  <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
   <img src="https://media.discordapp.net/attachments/811651461124587550/812387532012388392/original.gif">

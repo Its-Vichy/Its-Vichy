@@ -7,7 +7,7 @@
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
-  <img src="https://media.discordapp.net/attachments/811651461124587550/812387532012388392/original.gif">
+  <img src="https://media.discordapp.net/attachments/800083354254704671/818541772321718292/tenor.gif">
 </p>
 
 #

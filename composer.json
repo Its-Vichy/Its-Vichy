@@ -1,11 +1,11 @@
 {
-    "name": "ItsVichy",
+    "name": "osteel/osteel",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "ItsVichy",
-            "email": "Its_Vichy@protonmail.com"
+            "name": "Yannick Chenot",
+            "email": "contact@yannickchenot.com"
         }
     ],
     "require": {

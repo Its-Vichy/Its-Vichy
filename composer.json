@@ -1,0 +1,14 @@
+{
+    "name": "Its-Vichy/Its-Vichy",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Its-Vichy",
+            "email": "Its_Vichy@protonmail.com"
+        }
+    ],
+    "require": {
+        "dg/rss-php": "^1.4"
+    }
+}

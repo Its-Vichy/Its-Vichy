@@ -1,4 +1,4 @@
-<h1 align="center">HI<br><img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png"></h1>
+<h1 align="center">HELLO WORLD<br><br><img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png"></h1>
 
 <p align="center">
   <b>❤️ Follow me here:</b><br>

@@ -7,25 +7,35 @@
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
-  <img src="https://media.discordapp.net/attachments/800083354254704671/818541772321718292/tenor.gif">
+  <img src="https://media.discordapp.net/attachments/795241931621924865/830928668263579709/tenor.gif">
 </p>
 
 #
 ```diff
-💬 > 15 years old, french developper.
-✔️  > "𝘙𝘪𝘦𝘯 𝘦𝘴𝘵 𝘪𝘮𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦, 𝘪𝘭 𝘴𝘶𝘧𝘧𝘪𝘵 𝘫𝘶𝘴𝘵𝘦 𝘥𝘦 𝘵𝘳𝘰𝘶𝘷𝘦𝘳 𝘭𝘢 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯".
-📌 > Learn c, cpp, asm 
+🔵 >> 15 years old, french developper.
+⚪ >> Its_Vichy@protonmail.com
+🔴 >> Learn c, cpp, asm
 ```
 #
-```
-🤝 > Contact : Its_Vichy@protonmail.com
-📌 > Discord : ιтѕ_Ѵιcнч#1337
-```
-#
-<p align="center"> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-<code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp; </p>
+<h1 align="center">LANGUAGE</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp; |
+  <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>&nbsp; |
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929624028545024/nasm-logo.png"></code>&nbsp;
+</p>
+
+<h1 align="center">FRAMEWORK</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp; |
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://www.vincenthouba.com/assets/img/flask-logo.409c7035.jpg"></code>&nbsp; |
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/langfr-220px-.NET_Logo.svg.png"></code>&nbsp;
+</p>
 
 #
 <h1 align="center">STATS FOR NERDS</h1>

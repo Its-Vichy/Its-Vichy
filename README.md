@@ -1,8 +1,6 @@
-<h1 align="center">HI</h1>
+<h1 align="center">HI<br><img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png"></h1>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">
-  
   <b>❤️ Follow me here:</b><br>
   <a href="https://discord.gg/aMs5BHuyaU">Discord</a> |
   <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |

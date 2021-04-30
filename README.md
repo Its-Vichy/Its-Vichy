@@ -7,7 +7,7 @@
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
-  <img src="https://media.discordapp.net/attachments/795241931621924865/830928668263579709/tenor.gif">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
 </p>
 
 #
@@ -40,7 +40,6 @@
 #
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Zenrox-ff1414.svg">
   <img src="https://img.shields.io/github/followers/Its-Vichy?style=social">
   <img src="https://img.shields.io/github/stars/Its-Vichy?style=social">
   <img src="https://komarev.com/ghpvc/?username=Its-Vichy&color=blue">

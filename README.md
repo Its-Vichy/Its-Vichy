@@ -1,20 +1,22 @@
-<h1 align="center">HELLO WORLD<br><br><img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png"></h1>
+<h1 align="center">HELLO WORLD</h1>
 
 <p align="center">
-  <b>❤️ Follow me here:</b><br>
+  <b>🖤 Follow me here:</b><br>
   <a href="https://discord.gg/aMs5BHuyaU">Discord</a> |
   <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
+  <br>
+  <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">
 </p>
 
 #
 ```diff
-🔵 >> 15 years old, french developper.
-⚪ >> Its_Vichy@protonmail.com
-🔴 >> Learn c, cpp, asm
+👤 >> 15 years old, french developper.
+🗣️ >> Its_Vichy@protonmail.com
+🐺 >> Learn c, cpp, asm
 ```
 #
 <h1 align="center">LANGUAGE</h1>
@@ -23,6 +25,11 @@
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp; |
+</p>
+
+<h1 align="center">LEARN</h1>
+
+<p align="center"> 
   <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929624028545024/nasm-logo.png"></code>&nbsp;

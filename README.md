@@ -7,7 +7,7 @@
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
+  <img src="https://cdn.discordapp.com/attachments/853366478873821197/855658570493853706/21e777cb15f174ffed9c96a23a912f6f.gif">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">
 </p>

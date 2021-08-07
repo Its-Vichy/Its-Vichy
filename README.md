@@ -14,9 +14,9 @@
 
 #
 ```diff
-👤 >> 16 years old, french developper.
+👤 >> 16 years old, french.
 🗣️ >> Its_Vichy@protonmail.com
-🐺 >> Learn c, cpp, asm
+🐺 >> Learn c, asm. Working on Z# lang
 ```
 #
 <h1 align="center">LANGUAGE</h1>

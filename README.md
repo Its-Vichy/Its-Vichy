@@ -2,23 +2,26 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="https://discord.gg/palace-fr">Discord</a> |
+  <a href="https://discord.gg/">Discord</a> |
   <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
   <a href="https://twitter.com/its_vichy">Twitter</a> |
   <a href="https://github.com/Its-Vichy">Github</a>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/853366478873821197/855658570493853706/21e777cb15f174ffed9c96a23a912f6f.gif">
+  <img src="https://media.discordapp.net/attachments/879205491954290778/879478268905021520/efsdfdsf.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">
+  <!-- <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png"> -->
 </p>
 
-#
+-----
+
 ```diff
 👤 >> 16 years old, french.
 🗣️ >> Its_Vichy@protonmail.com
-🐺 >> Learn c, asm. Working on Z# lang
+🐺 >> Learn c, asm. Working on HBot
 ```
-#
+
+-----
+
 <h1 align="center">LANGUAGE</h1>
 
 <p align="center"> 
@@ -44,7 +47,8 @@
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/langfr-220px-.NET_Logo.svg.png"></code>&nbsp;
 </p>
 
-#
+-----
+
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/Its-Vichy?style=social">
